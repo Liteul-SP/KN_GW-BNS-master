@@ -1,0 +1,2 @@
+simulation_id	longitude	latitude	inclination	distance	mass1	mass2	spin1z	spin2z	polarization	coa_phase	geocent_end_time	geocent_end_time_ns
+2	0.28608001	-0.8219833	2.4084129	422.71248	1.6374293	1.593272	0.20263172	0.17212091	1.7486979961395264	-1.999014139175415	1014705132	973500371
